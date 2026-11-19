@@ -1,0 +1,10 @@
+# Ignore dependencies in all subfolders (Backend & Frontend)
+**/node_modules/
+
+# Ignore all environment files
+.env
+**/.env
+.env.*
+
+# Optional: OS and editor files
+.DS_Store
